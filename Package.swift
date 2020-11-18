@@ -24,6 +24,7 @@ let package = Package(
     targets: [
         .target(
             name: "M13Checkbox",
-            dependencies: [])
+            dependencies: [],
+            path: "Sources")
         ]
 )
